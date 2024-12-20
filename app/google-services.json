@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260174425034",
+    "project_id": "configurationbasicfirebase",
+    "storage_bucket": "configurationbasicfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260174425034:android:1f613ce0a3c9c20e1c3d33",
+        "android_client_info": {
+          "package_name": "com.kqm.configurationFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExrd2LAyd3AGfLRREOHIpKjuujv-sNpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
